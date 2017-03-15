@@ -9,6 +9,7 @@ $(document).ready( function () {
     	fixedHeader: true
     } );
 } );
-```
+```  
+Thanks to [DataTables FixedHeader](https://github.com/DataTables/FixedHeader)
 
 
